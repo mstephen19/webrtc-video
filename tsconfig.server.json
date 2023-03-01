@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "outDir": "dist",
+        "target": "ESNext",
+        "moduleResolution": "node",
+        "isolatedModules": false,
+        "noEmit": false,
+        "removeComments": true
+    },
+    "include": ["server/**/*.ts"]
+}
